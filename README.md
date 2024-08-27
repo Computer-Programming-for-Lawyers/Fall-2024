@@ -49,4 +49,5 @@ In order to keep your fork up-to-date with the original repository, you have to 
     
     `git push`
 
-[!TIP] You have to do this regularly in order to stay up to date with changes. In some cases, you may have to resolve conflicting files. Follow on screen instructions and consult online resources (like Stack Overflow) when that happens. If you can't figure it out, reach out for help on Ed.
+> [!TIP]
+> You have to do this regularly in order to stay up to date with changes. In some cases, you may have to resolve conflicting files. Follow on screen instructions and consult online resources (like Stack Overflow) when that happens. If you can't figure it out, reach out for help on Ed.
