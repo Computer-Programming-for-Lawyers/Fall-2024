@@ -1,6 +1,8 @@
 # Welcome to Computer Programming for Lawyers!
 This is where you'll be able to find code and materials that we use during lecture and labs. You can find the [course syllabus on Canvas](https://georgetown.instructure.com/courses/195784/assignments/syllabus).
 
+**If you are struggling with getting Codespaces set up, please read [getting-started-codespaces.md](getting-started-codespaces.md).**
+
 ## Instructions for Working with this Repository During Lectures and Labs
 
 In this guide, you will learn how to create a forked repository (essentially, your own private version) from the original course repository in GitHub Codespaces and how to pull changes from the master repository into your forked repository. This helps ensure that your work stays up-to-date with the latest changes made by the instructors.
