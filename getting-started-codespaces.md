@@ -37,16 +37,16 @@ Repositories also contain **README**s. You can add a README file to your reposit
 
 How to create a Codespace:
 1. Click the green "Code" button pictured here:
-![codespaces-step1](../../images/codespaces-step1.png)
+![codespaces-step1](images/codespaces-step1.png)
 
 2. In the menu that opens, select "Create codespace on main": 
-![codespaces-step2](../../images/codespaces-step2.png)
+![codespaces-step2](images/codespaces-step2.png)
 
 3. That should open a new tab. It will take a few minutes to load.
 
 Note: If you are creating a Codespace on a repository that you don't have "write access" to (aka, the permission to edit), you may need to create a copy of that repository that you can edit. 
 
-To do that, follow the instructions in the [README.md](../../README.md).
+To do that, follow the instructions in the [README.md](README.md).
 
 # Codespaces Tutorial
 The rest of this document walks you through what you see when you open a Codespace. We'll be spending a lot of time here this semester, so read closely. If you've followed the instructions so far, you should be looking at a Codespace right now. 
@@ -55,7 +55,7 @@ The rest of this document walks you through what you see when you open a Codespa
 
 The center of the screen is what we'll call the coding space. This is the space where you'll be able to view and edit files – where the coding happens!
 
-![image](../../images/coding%20space.PNG)
+![image](images/coding%20space.PNG)
 
 ### 2. The File Explorer
 
@@ -64,7 +64,7 @@ This is your file explorer. It shows all the files pertaining to your Codespace.
 > [!WARNING]
 Don't edit the ".devcontainer" or "git-hooks" folders. We've set those up to make your programming easier. If you edit or delete them, it could impact your ability to complete or submit your assignment. 
 
-![image](../../images/file%20explorer.PNG)
+![image](images/file%20explorer.PNG)
 
 ### 3. The Navigation Pane
 
@@ -72,13 +72,13 @@ This is your navigation pane. You can largely ignore this for now, we’ll get m
 
 You can click the top document icon to get back to the file explorer.
 
-![image](../../images/navigation.PNG)
+![image](images/navigation.PNG)
 
 ### 4. The Terminal
 
 This area serves multiple purposes, but we’ll primarily be using it to access your **Terminal**. Think of the terminal as a place where you tell the development environment (Codespaces) what to do: create new files, execute programs, and more.
 
-![image](../../images/terminal.PNG)
+![image](images/terminal.PNG)
 
 ### 5. Full Interface
 
