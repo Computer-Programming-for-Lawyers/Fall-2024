@@ -10,3 +10,4 @@
 
 ### Week 3
 * [Lecture 3](https://georgetown.zoom.us/rec/share/7z7rX92njO9PqVt-Ji2541Wx7D4ck1TT9eo6Bc7npEPjy8B--UVWG3OuTaU7uT3w.73ltRt9YocgzwTS3?startTime=1726523146000)
+* [Lab 3](https://georgetown.zoom.us/rec/share/RXRvjLt6yii_I-OpzClitY_CDY8dD7vekfsky2THeJ9hhNTAXEt3V0kl-qgFwpmG.ZbPJMQXXkLlzmUJi?startTime=1726695890000)
