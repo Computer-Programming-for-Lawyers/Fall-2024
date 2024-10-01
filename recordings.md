@@ -14,3 +14,4 @@
 
 ### Week 4
 * [Lecture 4](https://georgetown.zoom.us/rec/share/aVWwUfriixuzb7Uyw-glNVXknMZu9WvPPKUoecBTL4jNdGr3h7MBNDpvmVJ2_9JR.2IS4zP7TFMY2VwUl?startTime=1727127947000)
+* [Lab 4](https://georgetown.zoom.us/rec/share/uCnx7rzh0KaEatmKlcNOovha65vBYWqr9CYtb7AJYMITr9FfN-JxZWPTebzaI3Xx.nvXayMtJMn0hxJX0?startTime=1727300652000)

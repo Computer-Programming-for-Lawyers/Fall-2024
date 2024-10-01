@@ -3,7 +3,7 @@ This is where you'll be able to find code and materials that we use during lectu
 
 **If you are struggling with getting Codespaces set up, please read [getting-started-codespaces.md](getting-started-codespaces.md).**
 
-## Instructions for Working with this Repository During Lectures and Labs
+<!-- ## Instructions for Working with this Repository During Lectures and Labs
 
 In this guide, you will learn how to create a forked repository (essentially, your own private version) from the original course repository in GitHub Codespaces and how to pull changes from the master repository into your forked repository. This helps ensure that your work stays up-to-date with the latest changes made by the instructors.
 
@@ -52,4 +52,4 @@ In order to keep your fork up-to-date with the original repository, you have to 
     `git push`
 
 > [!TIP]
-> You have to do this regularly in order to stay up to date with changes. In some cases, you may have to resolve conflicting files. Follow on screen instructions and consult online resources (like Stack Overflow) when that happens. If you can't figure it out, reach out for help on Ed.
+> You have to do this regularly in order to stay up to date with changes. In some cases, you may have to resolve conflicting files. Follow on screen instructions and consult online resources (like Stack Overflow) when that happens. If you can't figure it out, reach out for help on Ed. -->
