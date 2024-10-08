@@ -19,3 +19,6 @@
 ### Week 5
 * [Lecture 5](https://georgetown.zoom.us/rec/share/tBxbHsrNJu1fjU8nIz7jm8nrB7HshMeRKsUT_Wa6nqQJpf_w9VyVeIOP9mBMpWiX.c5AFIV6JRmoLXVbn?startTime=1727732664000)
 * [Lab 5](https://georgetown.zoom.us/rec/share/Sr7J1A7Q5bX7eXY9xfGMKEMEYiX_-mZVcDKSJNb6Fyz56_pQyp5-AYcsoFlOsqjF.jug-WAqrm_LMr7Ki?startTime=1727905479000)
+
+### Week 6
+* [Lecture 6](https://georgetown.zoom.us/rec/share/-gFLwY6a1BgxvXCiIfl4CYefA0y0LDuylWSYd0-gE4ghdj5-stuuNeWN7A-JRva0.1Je_CuRQoSay1LdM?startTime=1728337398000)
