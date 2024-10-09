@@ -1,7 +1,7 @@
 import pandas as pd
 
 def validate(prompt: str,lower_bound: int,upper_bound: int) -> int:
-    print("The validate function is now running.")
+    # print("The validate function is now running.")
     while True:
         answer = int(input(prompt))
         if lower_bound <= answer <= upper_bound:
