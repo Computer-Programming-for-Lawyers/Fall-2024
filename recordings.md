@@ -22,3 +22,4 @@
 
 ### Week 6
 * [Lecture 6](https://georgetown.zoom.us/rec/share/-gFLwY6a1BgxvXCiIfl4CYefA0y0LDuylWSYd0-gE4ghdj5-stuuNeWN7A-JRva0.1Je_CuRQoSay1LdM?startTime=1728337398000) *Note: The audio gets cut off after the break. Sorry about that. Reach out to me if you have questions.*
+* [Lab 6](https://georgetown.zoom.us/rec/share/P0SsHrUBMYtwndZhZEMYCxNRHHXW0bYEikRYNQkAIaxZ8K1I-nfH9Mbn6vvulzIg.IAtjTVg-0ZyL7KCi?startTime=1728510297000)
