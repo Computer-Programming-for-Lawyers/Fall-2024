@@ -2,7 +2,6 @@ import pypdf
 import os
 import datetime
 
-
 def save_string_to_file(text: str, file_location: str) -> None:
   """
   Save a string to a text file.
