@@ -23,3 +23,7 @@
 ### Week 6
 * [Lecture 6](https://georgetown.zoom.us/rec/share/-gFLwY6a1BgxvXCiIfl4CYefA0y0LDuylWSYd0-gE4ghdj5-stuuNeWN7A-JRva0.1Je_CuRQoSay1LdM?startTime=1728337398000) *Note: The audio gets cut off after the break. Sorry about that. Reach out to me if you have questions.*
 * [Lab 6](https://georgetown.zoom.us/rec/share/P0SsHrUBMYtwndZhZEMYCxNRHHXW0bYEikRYNQkAIaxZ8K1I-nfH9Mbn6vvulzIg.IAtjTVg-0ZyL7KCi?startTime=1728510297000)
+
+### Week 7
+* [Lecture 7](https://georgetown.zoom.us/rec/share/GU0w_cyvjNjz_7IyV6eFB9WlQwFzhyvDzkZBFLsgyqEdYRBRiC7c-FKt5UCUj4ld.OzgGkk1YJ4OI3Oxo?startTime=1729028480000)
+  * [Litigation scraper demo](https://georgetown.zoom.us/rec/share/-v_aGcI4pNuFMW4RCSKex90ubJ8Vwmw-2fkRl3RUZYEue9NrBNY1kHl5Z27CfkHT.dvDqQG99HjtmVmpE?startTime=1729039202000) 
