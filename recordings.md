@@ -26,4 +26,5 @@
 
 ### Week 7
 * [Lecture 7](https://georgetown.zoom.us/rec/share/GU0w_cyvjNjz_7IyV6eFB9WlQwFzhyvDzkZBFLsgyqEdYRBRiC7c-FKt5UCUj4ld.OzgGkk1YJ4OI3Oxo?startTime=1729028480000)
-  * [Litigation scraper demo](https://georgetown.zoom.us/rec/share/-v_aGcI4pNuFMW4RCSKex90ubJ8Vwmw-2fkRl3RUZYEue9NrBNY1kHl5Z27CfkHT.dvDqQG99HjtmVmpE?startTime=1729039202000) 
+  * [Litigation scraper demo](https://georgetown.zoom.us/rec/share/-v_aGcI4pNuFMW4RCSKex90ubJ8Vwmw-2fkRl3RUZYEue9NrBNY1kHl5Z27CfkHT.dvDqQG99HjtmVmpE?startTime=1729039202000)
+* [Lab 7](https://georgetown.zoom.us/rec/share/GItjxYMsYr66GtvBx46wfkdMtQhoVldvYA21I7OO3rRxk4e4XrOZ7yaOaUdl0Zw.ltFO-V8P2O4e7hQ6?startTime=1729115224000)
