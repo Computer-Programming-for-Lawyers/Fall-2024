@@ -3,6 +3,9 @@ This is where you'll be able to find code and materials that we use during lectu
 
 **If you are struggling with getting Codespaces set up, please read [getting-started-codespaces.md](getting-started-codespaces.md).**
 
+# [Electionline Activity Link, Week 8 Lecture] (https://classroom.github.com/a/FocjgXku)
+
+
 <!-- ## Instructions for Working with this Repository During Lectures and Labs
 
 In this guide, you will learn how to create a forked repository (essentially, your own private version) from the original course repository in GitHub Codespaces and how to pull changes from the master repository into your forked repository. This helps ensure that your work stays up-to-date with the latest changes made by the instructors.
