@@ -3,7 +3,10 @@ This is where you'll be able to find code and materials that we use during lectu
 
 **If you are struggling with getting Codespaces set up, please read [getting-started-codespaces.md](getting-started-codespaces.md).**
 
-# [Electionline Activity Link for Week 8 Lecture](https://classroom.github.com/a/FocjgXku)
+
+# Week 8 Links
+*  [Electionline Activity Link for Week 8 Lecture](https://classroom.github.com/a/FocjgXku)
+*  [Zoom for screen sharing](https://georgetown.zoom.us/j/91775117700)
 
 
 <!-- ## Instructions for Working with this Repository During Lectures and Labs
